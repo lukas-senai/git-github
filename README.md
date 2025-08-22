@@ -68,11 +68,7 @@ git log --oneline
 ## 5. Conectando ao GitHub
 Para iniciarmos, assista essa vídeo aula:
 
-[Git / Github | Vinculando o PC ao Github através da chave SSH + uso do commit, push e pull](https://www.youtube.com/watch?v=NUHs75BrQtg)
-[![Add ssh-key ao Github](https://i.ytimg.com/vi/NUHs75BrQtg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjfjWxHLQF6ouNPdHtav9JzsKlkg)](https://www.youtube.com/watch?v=NUHs75BrQtg)
-
-
-<a href="https://www.youtube.com/watch?v=NUHs75BrQtg" target="_blank"><img height="138" width="246" src="https://i.ytimg.com/vi/NUHs75BrQtg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjfjWxHLQF6ouNPdHtav9JzsKlkg" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=NUHs75BrQtg" target="_blank"><img height="168" width="300" src="https://i.ytimg.com/vi/NUHs75BrQtg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjfjWxHLQF6ouNPdHtav9JzsKlkg" target="_blank"></a>
 
 
 Depois de você ter criado seu projeto local, criado seu repositório no GitHub e vinculado sua chave ssh-key, conecte seu projeto local ao repositório assim:
