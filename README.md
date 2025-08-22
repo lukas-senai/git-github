@@ -2,7 +2,7 @@
 
 Bem-vindo ao tutorial mais completo e didático de Git/GiHub para iniciantes absolutos! Este material foi criado especialmente para quem nunca trabalhou com versionamento de código e quer aprender de forma prática e divertida.
 
-## 1 Introdução
+## 1. Introdução
 ### 1.1. O que é o Git?
 Pense no `Git` como a “máquina do tempo” do seu projeto.
 Ele guarda cada versão do seu código, permitindo que você volte no tempo, compare mudanças e trabalhe em equipe sem bagunça.
@@ -139,4 +139,4 @@ DESAFIO
 
 ---
 
-*Feito com ❤️ pelo professor [Bruno Batista]*(https://github.com/batistabjs)
+*Feito com ❤️ pelo professor [Bruno Batista](https://github.com/batistabjs)
