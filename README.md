@@ -44,9 +44,9 @@ A partir de agora, cada página escrita pode ser guardada como uma versão.
 
 ## 3. Ciclo Básico do Git
 O ciclo do Git costuma ser simples e dividido em 3 etapas:
-`Escreve` → altera ou cria arquivos
-`Marca` → adiciona ao controle do Git (`git add`)
-`Fotografa` → registra um ponto na linha do tempo (`git commit`)
+- `Escreve` → altera ou cria arquivos
+- `Marca` → adiciona ao controle do Git (`git add`)
+- `Fotografa` → registra um ponto na linha do tempo (`git commit`)
 
 Exemplo:
 ```bash
