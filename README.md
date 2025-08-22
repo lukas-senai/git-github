@@ -68,6 +68,8 @@ git log --oneline
 ## 5. Conectando ao GitHub
 Para iniciarmos, assista essa vídeo aula:
 
+[![Add ssh-key ao Github](https://i.ytimg.com/vi/NUHs75BrQtg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjfjWxHLQF6ouNPdHtav9JzsKlkg)](https://www.youtube.com/watch?v=NUHs75BrQtg)
+
 
 Depois de você ter criado seu projeto local, criado seu repositório no GitHub e vinculado sua chave ssh-key, conecte seu projeto local ao repositório assim:
 ```bash
@@ -119,8 +121,8 @@ git merge nova-funcionalidade
 
 ## 10. Dicas para Bons Commits
 Mensagens curtas e claras:
-✅ "Corrige bug no login"
-❌ "alterei algumas coisas"
+- ✅ "Corrige bug no login"
+- ❌ "alterei algumas coisas"
 
 Faça commits frequentes, mas com sentido!
 
@@ -137,4 +139,4 @@ DESAFIO
 
 ---
 
-*Feito com ❤️ pelo professor Bruno Batista*
+*Feito com ❤️ pelo professor [Bruno Batista*](https://github.com/batistabjs)
